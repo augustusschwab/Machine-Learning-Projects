@@ -1,0 +1,2 @@
+# Machine-Learning-Projects
+These projects all focus on the various algorithms under the umbrella of machine learning. Each project implements a specific algorithm and involves a hypothetical scenario where I need to implement the algorithm to arrive at a solution for a "real world" problem. Since the focus is on the actual algorithm and analysis of its performance the datasets are fairly clean and simple. In reality a huge chunk of the time spent working with datasets will be getting it into a form so these algorithms can perform appropriately.
